@@ -1,0 +1,163 @@
+14:07:59.629 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.chentao.demo01.Demo01ApplicationTests]: Demo01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:07:59.683 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,234] - Found @SpringBootConfiguration com.chentao.demo01.Demo01Application for test class com.chentao.demo01.Demo01ApplicationTests
+14:08:20.045 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.chentao.demo01.Demo01ApplicationTests]: Demo01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:08:20.110 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,234] - Found @SpringBootConfiguration com.chentao.demo01.Demo01Application for test class com.chentao.demo01.Demo01ApplicationTests
+14:44:02.644 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.chentao.demo01.Demo01ApplicationTests]: Demo01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:44:02.699 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,234] - Found @SpringBootConfiguration com.chentao.demo01.Demo01Application for test class com.chentao.demo01.Demo01ApplicationTests
+14:47:19.741 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 11204 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+14:47:19.742 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+14:47:20.148 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+14:47:20.155 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:47:20.156 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:47:20.156 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+14:47:20.192 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:47:20.192 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 431 ms
+14:47:20.392 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:47:20.400 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+14:47:20.409 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.858 seconds (process running for 1.176)
+14:48:11.677 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 17664 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+14:48:11.678 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+14:48:12.082 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+14:48:12.087 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:48:12.088 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:48:12.089 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+14:48:12.118 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:48:12.119 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 422 ms
+14:48:12.272 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+14:48:12.280 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+14:48:12.284 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.794 seconds (process running for 1.115)
+15:00:40.385 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 31148 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:00:40.387 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:00:40.792 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+15:00:40.798 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:00:40.799 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:00:40.799 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+15:00:40.828 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:00:40.829 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 421 ms
+15:00:40.980 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:00:40.988 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+15:00:40.992 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.793 seconds (process running for 1.112)
+15:00:50.438 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:00:50.438 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+15:00:50.438 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+15:00:54.426 [http-nio-8080-exec-2] INFO  c.c.d.c.TestController - [testLog,19] - ======测试日志info级别打印=====
+15:00:54.427 [http-nio-8080-exec-2] INFO  c.c.d.c.TestController - [testLog,26] - ======测试：blog.itcodai.com
+15:02:56.832 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 9444 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:02:56.833 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:02:57.235 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+15:02:57.241 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:02:57.242 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:02:57.243 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+15:02:57.272 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:02:57.272 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 420 ms
+15:02:57.425 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:02:57.434 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+15:02:57.438 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.793 seconds (process running for 1.113)
+15:03:02.723 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:03:02.723 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+15:03:02.724 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 1 ms
+15:03:02.738 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,19] - ======测试日志info级别打印=====
+15:03:02.738 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,26] - ======测试：www.felixchen.top
+15:04:49.468 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 17660 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:04:49.470 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:04:49.872 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+15:04:49.878 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:04:49.880 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:04:49.880 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+15:04:49.910 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:04:49.910 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 421 ms
+15:04:50.063 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:04:50.070 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+15:04:50.074 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.791 seconds (process running for 1.107)
+15:04:51.543 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:04:51.543 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+15:04:51.543 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+15:04:51.557 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,19] - ======测试日志info级别打印=====
+15:04:51.557 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,26] - ======测试：www.felixchen.top kirby
+15:10:43.900 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.chentao.demo01.Demo01ApplicationTests]: Demo01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:10:43.954 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,234] - Found @SpringBootConfiguration com.chentao.demo01.Demo01Application for test class com.chentao.demo01.Demo01ApplicationTests
+15:12:06.751 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 7248 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:12:06.752 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:12:07.157 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+15:12:07.163 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:12:07.164 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:12:07.164 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+15:12:07.198 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:12:07.198 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 427 ms
+15:12:07.347 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:12:07.356 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+15:12:07.360 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.799 seconds (process running for 1.122)
+15:12:13.555 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 17984 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:12:13.556 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:12:13.960 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+15:12:13.965 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:12:13.967 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:12:13.967 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+15:12:13.998 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:12:13.998 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 422 ms
+15:12:14.150 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+15:12:14.158 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+15:12:14.162 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.798 seconds (process running for 1.116)
+15:12:35.289 [Test worker] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - [detectDefaultConfigurationClasses,83] - Could not detect default configuration classes for test class [com.chentao.demo01.Demo01ApplicationTests]: Demo01ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:12:35.344 [Test worker] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - [getOrFindConfigurationClasses,234] - Found @SpringBootConfiguration com.chentao.demo01.Demo01Application for test class com.chentao.demo01.Demo01ApplicationTests
+15:12:35.578 [Test worker] INFO  c.c.d.Demo01ApplicationTests - [logStarting,50] - Starting Demo01ApplicationTests using Java 17.0.12 with PID 8328 (started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+15:12:35.579 [Test worker] INFO  c.c.d.Demo01ApplicationTests - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+15:12:36.151 [Test worker] INFO  c.c.d.Demo01ApplicationTests - [logStarted,56] - Started Demo01ApplicationTests in 0.727 seconds (process running for 1.425)
+16:18:15.643 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 24500 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+16:18:15.644 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+16:18:16.046 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+16:18:16.053 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:18:16.054 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:18:16.054 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+16:18:16.085 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:18:16.085 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 418 ms
+16:18:16.240 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:18:16.249 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+16:18:16.253 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.793 seconds (process running for 1.119)
+16:18:24.470 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:18:24.470 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+16:18:24.471 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 1 ms
+16:18:24.485 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,19] - ======测试日志info级别打印=====
+16:18:24.486 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testLog,26] - ======测试：www.felixchen.top kirby
+16:44:32.501 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 4904 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+16:44:32.502 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+16:44:32.907 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+16:44:32.913 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:44:32.914 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:44:32.914 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+16:44:32.946 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:44:32.946 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 423 ms
+16:44:33.041 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:44:33.047 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - [logMessage,82] - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+16:44:54.178 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 19776 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+16:44:54.179 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+16:44:54.584 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+16:44:54.590 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:44:54.590 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:44:54.591 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+16:44:54.622 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:44:54.622 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 423 ms
+16:44:54.781 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:44:54.790 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+16:44:54.794 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.808 seconds (process running for 1.123)
+16:45:04.845 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:45:04.845 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+16:45:04.845 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+16:45:04.859 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testReadYml,37] - ====获取的订单服务地址为: http://localhost:8002
+16:45:32.119 [main] INFO  c.c.d.Demo01Application - [logStarting,50] - Starting Demo01Application using Java 17.0.12 with PID 5040 (C:\Users\10629\IdeaProjects\demo01\build\classes\java\main started by 10629 in C:\Users\10629\IdeaProjects\demo01)
+16:45:32.120 [main] INFO  c.c.d.Demo01Application - [logStartupProfileInfo,654] - No active profile set, falling back to 1 default profile: "default"
+16:45:32.521 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,111] - Tomcat initialized with port 8080 (http)
+16:45:32.526 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:45:32.527 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:45:32.527 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.26]
+16:45:32.557 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:45:32.558 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,296] - Root WebApplicationContext: initialization completed in 417 ms
+16:45:32.710 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:45:32.719 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,243] - Tomcat started on port 8080 (http) with context path '/'
+16:45:32.722 [main] INFO  c.c.d.Demo01Application - [logStarted,56] - Started Demo01Application in 0.789 seconds (process running for 1.108)
+16:45:34.698 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:45:34.698 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+16:45:34.698 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+16:45:34.711 [http-nio-8080-exec-1] INFO  c.c.d.c.TestController - [testReadYml,37] - ====获取的订单服务地址为: http://localhost:8002
