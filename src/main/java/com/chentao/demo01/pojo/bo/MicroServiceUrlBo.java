@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "url")
 public class MicroServiceUrlBo {
     private String orderUrl;
-    private String uerUrl;
+    private String userUrl;
     private String shoppingUrl;
 }
 

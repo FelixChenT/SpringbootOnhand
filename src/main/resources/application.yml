@@ -3,7 +3,8 @@ spring:
   application:
     name: demo01  # 这是行尾注释，注释应用程序的名称
   profiles:
-    active: dev
+    active:
+    - dev   # 这里的 - 表示一个列表项。在 YAML 中，- 用来定义一个列表中的项。
 
 # 配置服务器端口
 server:
