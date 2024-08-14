@@ -4,6 +4,7 @@ import com.chentao.demo01.pojo.bo.UserBo;
 import com.chentao.demo01.util.JsonResultUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -18,13 +19,13 @@ public class JsonResultController {
 
     private final static Logger logger = LoggerFactory.getLogger(JsonResultController.class.getName());
 
-    @RequestMapping("/user")
+        @GetMapping("/user")
         public JsonResultUtils<UserBo> getUser() {
             UserBo user = new UserBo();
             return new JsonResultUtils<>(user);
         }
 
-        @RequestMapping("/list")
+        @GetMapping("/list")
         public JsonResultUtils<List> getUserList() {
             List<UserBo> userList = new ArrayList<>();
             UserBo user1 = new UserBo();
@@ -34,7 +35,7 @@ public class JsonResultController {
             return new JsonResultUtils<>(userList, "获取用户列表成功");
         }
 
-        @RequestMapping("/map")
+        @GetMapping("/map")
         public JsonResultUtils<Map> getMap() {
             Map<String, Object> map = new HashMap<>(3);
             UserBo user = new UserBo();

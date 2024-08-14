@@ -6,9 +6,14 @@ spring:
     active:
     - dev   # 这里的 - 表示一个列表项。在 YAML 中，- 用来定义一个列表中的项。
 
+  thymeleaf:
+    cache: false #关闭缓存
+
+
 # 配置服务器端口
 server:
   port: 8080  # 这是行尾注释，解释端口号
+
 
 # 配置slf4j日志服务
 logging:
@@ -25,6 +30,12 @@ logging:
 
 
 
+swagger:
+  enable: true
+  applicationName: ${spring.application.name}
+  applicationVersion: 1.0
+  applicationDescription: "FelixChen's Project"
+  try-host: http://localhost:${server:port}
 
 
 
