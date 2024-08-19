@@ -28,5 +28,7 @@ public class GlobalExceptionHandler {
             MissingServletRequestParameterException ex) {
         logger.error("缺少请求参数，{}", ex.getMessage());
         return new JsonResultUtils("400", "缺少必要的请求参数");
+
+        // test Update
     }
 }
