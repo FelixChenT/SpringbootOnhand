@@ -16,7 +16,7 @@ public class GlobalExceptionHandler {
     // 打印log
     private static final Logger logger = LoggerFactory.getLogger(GlobalExceptionHandler.class);
     // ……
-
+    
     /**
      * 缺少请求参数异常
      * @param ex HttpMessageNotReadableException
@@ -28,6 +28,5 @@ public class GlobalExceptionHandler {
             MissingServletRequestParameterException ex) {
         logger.error("缺少请求参数，{}", ex.getMessage());
         return new JsonResultUtils("400", "缺少必要的请求参数");
-
     }
 }

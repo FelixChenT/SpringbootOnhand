@@ -40,7 +40,7 @@ public class JsonResultController {
             Map<String, Object> map = new HashMap<>(3);
             UserBo user = new UserBo();
             map.put("作者信息", user);
-            map.put("博客地址", "http://blog.itcodai.com");
+            map.put("博客地址", "http://felixchen.top");
             map.put("CSDN地址", null);
             map.put("粉丝数量", 4153);
             return new JsonResultUtils<>(map);
