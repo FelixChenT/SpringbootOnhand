@@ -16,6 +16,7 @@ public class UserBo {
 
 
     @Schema(description = "用户唯一标识")
+    
     private Long id;
 
 
